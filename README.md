@@ -1,1 +1,1 @@
-# course-42
+# course-42 piscine
